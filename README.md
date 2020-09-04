@@ -16,11 +16,11 @@
 
 ## My Repos
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=projeto-de-algoritmos-2019-2&repo=project-1-lightsout&show_owner=true)](https://github.com/projeto-de-algoritmos-2019-2/project-4-flight-panel)
+[![Lights Out](https://github-readme-stats.vercel.app/api/pin/?username=projeto-de-algoritmos-2019-2&repo=project-1-lightsout&show_owner=true)](https://github.com/projeto-de-algoritmos-2019-2/project-1-lightsout)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=projeto-de-algoritmos-2019-2&repo=project-4-flight-panel&show_owner=true)](https://github.com/shinokada/statsfig)
+[![Flight Panel](https://github-readme-stats.vercel.app/api/pin/?username=projeto-de-algoritmos-2019-2&repo=project-4-flight-panel&show_owner=true)](https://github.com/projeto-de-algoritmos-2019-2/project-4-flight-panel)
 
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=durvalcarvalho&repo=2019.2-Acacia&show_owner=true)](https://github.com/shinokada/covid-19-stats)
+[![Acacia](https://github-readme-stats.vercel.app/api/pin/?username=durvalcarvalho&repo=2019.2-Acacia&show_owner=true)](https://github.com/fga-eps-mds/2019.2-Acacia)
 
 
 
