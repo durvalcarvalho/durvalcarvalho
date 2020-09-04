@@ -7,7 +7,7 @@
 <br />
 <br />
 
-- 🌱 I am currently learning C ++ builds in the Linux environment
+- 🌱 I am currently learning C++ builds in the Linux environment
 - 📫 How to reach me: <a href="https://twitter.com/durvaall">@durvaall</a> 
 
 
