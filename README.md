@@ -72,7 +72,23 @@
   <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" width="25px" height="25px"/>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/durvalcsouza/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="durvalcarvalho" height="20" width="20" />
+  </a>
 
+  <a href="https://twitter.com/durvaall" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="durvalcarvalho" height="20" width="20" />
+  </a>
+  
+  <a href="https://github.com/durvalcarvalho" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="durvalcarvalho" height="20" width="20" />
+  </a>
+
+  <a href="https://open.spotify.com/user/12150218960" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="durvalcarvalho" height="20" width="20" />
+  </a>
+</p>
 
 
 
