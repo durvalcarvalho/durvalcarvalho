@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Durval!
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Durval!
 
 <p align='center'>
-  - 🌱 I am currently learning C++ builds in the Linux environment <br>
+  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently learning C++ builds in the Linux environment <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br> 
   - 📫 How to reach me: <a href="https://twitter.com/durvaall">@durvaall</a>
 </p>
 
