@@ -1,14 +1,15 @@
+[![Linkedin Badge](https://img.shields.io/badge/-Durval-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durvalcsouza/)](https://www.linkedin.com/in/durvalcsouza/)
+[![Gmail Badge](https://img.shields.io/badge/-dudurval2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dudurval2@gmail.com)](mailto:dudurval2@gmail.com) 
+[![Telegram Badge](https://img.shields.io/badge/-durvalcsouza-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/durvalcsouza)](https://t.me/durvalcsouza) 
+<a href="https://twitter.com/durvaall">
+  <img align="left" alt="Durval Carvalho | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
+</a>
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Durval!
 
-<p align='center'>
+<p align="center" class="tip" markdown="1">
   - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently learning C++ builds in the Linux environment <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br> 
-  - 📫 How to reach me: <a href="https://twitter.com/durvaall">@durvaall</a>
-</p>
-
-<p align='center'>
-  <a href="https://twitter.com/durvaall">
-    <img align="left" alt="Durval Carvalho | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
-  </a>
+  - 📫 How to reach me: <a href="https://twitter.com/durvaall">@durvaall</a> <br>   
 </p>
 
 <p align='center'>
