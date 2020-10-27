@@ -15,7 +15,11 @@
 <p align='center'>
   <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Ddurvalcarvalho&longCache=true"> <br>
   
-  <img src='http://www.hit-counts.com/counter.php?t=MTQ1Mjg4Ng==' border='0' alt='logo services'>
+  <!-- Start of CuterCounter -->
+  Visitas na página do GitHub
+  <img src="https://www.cutercounter.com/hits.php?id=hxkdnna&nd=3&style=14" border="0" alt="visitor counter">
+  <!-- End of CuterCounter -->
+  
 </p>
 
 <p align='center'>
