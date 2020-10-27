@@ -13,14 +13,18 @@
 </p>
 
 <p align='center'>
-  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Ddurvalcarvalho&longCache=true"> <br>
-  
-  <!-- Start of CuterCounter -->
-  Visitas na página do GitHub
-  <img src="https://www.cutercounter.com/hits.php?id=hxkdnna&nd=3&style=14" border="0" alt="visitor counter">
-  <!-- End of CuterCounter -->
-  
+  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Ddurvalcarvalho&longCache=true"> <br> 
 </p>
+
+<!-- Start of CuterCounter -->
+<div align='center'>
+  <p align='center'>
+    GitHub Views
+    <img src="https://www.cutercounter.com/hits.php?id=hxkdnna&nd=3&style=14" border="0" alt="visitor counter" >
+  </p>
+</div>
+<!-- End of CuterCounter -->
+
 
 <p align='center'>
   <img src='https://spotify-github-profile.vercel.app/api/view?uid=12150218960&cover_image=true'>
