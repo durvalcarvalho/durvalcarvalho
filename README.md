@@ -1,37 +1,79 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Durval-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/durvalcsouza/)](https://www.linkedin.com/in/durvalcsouza/)
-[![Gmail Badge](https://img.shields.io/badge/-dudurval2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dudurval2@gmail.com)](mailto:dudurval2@gmail.com) 
-[![Telegram Badge](https://img.shields.io/badge/-durvalcsouza-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/durvalcsouza)](https://t.me/durvalcsouza) 
-<a href="https://twitter.com/durvaall">
-  <img align="left" alt="Durval Carvalho | Twitter" width="21px" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/twitter.png"/>
-</a>
+<img src='nice.gif'>
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Durval!
-
-<p align="center" class="tip" markdown="1">
-  - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am currently learning C++ builds in the Linux environment <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br> 
-  - 📫 How to reach me: <a href="https://twitter.com/durvaall">@durvaall</a> <br>   
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=durvalcarvalho" 
+    alt="Durval Carvalho"
+  />
 </p>
 
+<br><br>
+
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+## Things I code with
 <p align='center'>
-  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Ddurvalcarvalho&longCache=true"> <br> 
-  
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=durvalcarvalho" alt="Durval Carvalho" /> </p>
-  
+  <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C%2b%2b-007ACC?style=flat-square&logo=c%2b%2b&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=JavaScript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000" />
+  <img alt="Django" src="https://img.shields.io/badge/-django-fff?&logo=django&logoColor=green" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-ubuntu-fff?&logo=ubuntu&logoColor=orange" />
+  <img alt="MySql" src="https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=orange" />
 </p>
 
+<br><br>
+
+## Waka Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br><br>
+
+## What I'm listening
+
+<br>
 <p align='center'>
   <img src='https://spotify-github-profile.vercel.app/api/view?uid=12150218960&cover_image=true'>
 <p>
 
-<br />
-<br />
+<br><br>
+
+## My current interests in technologies
+
+- I'm huge fan of computer vision ([I have this project](https://github.com/durvalcarvalho/contador_moedas), but I need to study more)
+- I'm curious to know more about the Android world
+- I'm a huge REST API enthusiast
+
+<br><br>
+
+## How to reach me
+<br>
+<div align='center'>
+  <a target='_blank' src='https://twitter.com/durvaall'><img src='https://img.shields.io/badge/-@durvaall-blue?style=flat-square&logo=twitter&logoColor=white'></a>
+  <a target='_blank' src='https://www.linkedin.com/in/durvalcsouza/'><img src='https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white'></a>
+  <a target='_blank' src='mailto:dudurval2@gmail.com'><img src='https://img.shields.io/badge/-dudurval2@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white'></a>
+  <a target='_blank' src='https://www.linkedin.com/in/durvalcsouza/'><img src='https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=Telegram&logoColor=white'></a>
+  <a target='_blank' src='https://open.spotify.com/user/12150218960'><img src='https://img.shields.io/badge/-Spotify-green?style=flat-square&logo=Spotify&logoColor=white'></a>
+</div>
+
+<br><br>
+
+## My Github stats
 
 <p align="center">
-  <img src='https://github-profile-trophy.vercel.app/?username=durvalcarvalho&column=7&theme=onedark'>
   <img src='https://github-readme-stats.vercel.app/api?username=durvalcarvalho&show_icons=true&theme=tokyonight'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=durvalcarvalho&hide=Rich%20Text%20Format,TSQL'>
 </p>
 
+
+## Gifs everywhere!!
 <p align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -76,43 +118,4 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1490884029/1971/coin.gif" width="25" height="25"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
 </p>
-
-**Languages and Tools:**  
-<p align="center">
-  <img src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/django/django-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/csharp/csharp-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/cplusplus/cplusplus-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original.svg" width="25px" height="25px"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/durvalcsouza/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="durvalcarvalho" height="20" width="20" />
-  </a>
-
-  <a href="https://twitter.com/durvaall" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="durvalcarvalho" height="20" width="20" />
-  </a>
-  
-  <a href="https://github.com/durvalcarvalho" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="durvalcarvalho" height="20" width="20" />
-  </a>
-
-  <a href="https://open.spotify.com/user/12150218960" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="durvalcarvalho" height="20" width="20" />
-  </a>
-</p>
-
-
-
-
 
