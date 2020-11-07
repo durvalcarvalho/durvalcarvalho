@@ -29,6 +29,81 @@
 ## Waka Stats
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 598 Contributions in the Year 2020
+ > 
+> 📦 1.1 MB Used in Github's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 45 Public Repositories
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    110 commits    █████░░░░░░░░░░░░░░░░░░░░   21.48% 
+🌆 Daytime    174 commits    ████████░░░░░░░░░░░░░░░░░   33.98% 
+🌃 Evening    218 commits    ██████████░░░░░░░░░░░░░░░   42.58% 
+🌙 Night      10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       82 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.02% 
+Tuesday      59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.52% 
+Wednesday    117 commits    █████░░░░░░░░░░░░░░░░░░░░   22.85% 
+Thursday     73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
+Friday       61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.91% 
+Saturday     69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
+Sunday       51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.96%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   11 repos            ██████████░░░░░░░░░░░░░░░   42.31% 
+C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.85%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/durvalcarvalho/durvalcarvalho/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ## What I'm listening
