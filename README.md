@@ -1,4 +1,4 @@
-<img src='nice.gif'>
+<div align='center'><img src='nice.gif'></div>
 
 <p align="center">
   <img 
