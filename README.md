@@ -7,8 +7,6 @@
   />
 </p>
 
-<br><br>
-
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Things I code with
@@ -28,14 +26,10 @@
   <img alt="MySql" src="https://img.shields.io/badge/-MySQL-fff?&logo=mysql&logoColor=orange" />
 </p>
 
-<br><br>
-
 ## Waka Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<br><br>
 
 ## What I'm listening
 
@@ -44,15 +38,11 @@
   <img src='https://spotify-github-profile.vercel.app/api/view?uid=12150218960&cover_image=true'>
 <p>
 
-<br><br>
-
 ## My current interests in technologies
 
 - I'm huge fan of computer vision ([I have this project](https://github.com/durvalcarvalho/contador_moedas), but I need to study more)
 - I'm curious to know more about the Android world
 - I'm a huge REST API enthusiast
-
-<br><br>
 
 ## How to reach me
 <br>
@@ -63,8 +53,6 @@
   <a target='_blank' src='https://www.linkedin.com/in/durvalcsouza/'><img src='https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=Telegram&logoColor=white'></a>
   <a target='_blank' src='https://open.spotify.com/user/12150218960'><img src='https://img.shields.io/badge/-Spotify-green?style=flat-square&logo=Spotify&logoColor=white'></a>
 </div>
-
-<br><br>
 
 ## My Github stats
 
