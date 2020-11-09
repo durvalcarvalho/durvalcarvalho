@@ -117,7 +117,7 @@ VHDL                     1 repo              █░░░░░░░░░░�
 
 - I'm huge fan of computer vision ([I have this project](https://github.com/durvalcarvalho/contador_moedas), but I need to study more)
 - I'm curious to know more about the Android world
-- I'm a huge REST API enthusiast
+- I love to work with REST APIs
 
 ## How to reach me
 <br>
